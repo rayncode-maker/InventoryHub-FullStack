@@ -1,0 +1,15 @@
+inventoryhub/  
+├── client/                # Front-end (React/Vue/Angular)  
+│   ├── src/  
+│   │   ├── components/    # UI components  
+│   │   ├── pages/         # Routes/views  
+│   │   ├── App.js         # Main app  
+│   │   └── index.js       # Entry point  
+├── server/                # Back-end (Node.js/Express)  
+│   ├── models/            # Database schemas  
+│   ├── routes/            # API endpoints  
+│   ├── app.js             # Express setup  
+│   └── server.js          # Server entry  
+├── .env                   # Environment variables  
+├── README.md              # Project docs  
+└── package.json           # Dependencies  
