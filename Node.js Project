@@ -1,0 +1,4 @@
+mkdir inventoryhub && cd inventoryhub
+npm init -y
+mkdir server && cd server
+npm install express cors mongoose dotenv
